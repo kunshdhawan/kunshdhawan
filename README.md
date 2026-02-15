@@ -1,4 +1,4 @@
-![](https://github.com/kunshdhawan/f15.gif)
+![me](https://github.com/kunshdhawan/kunshdhawan/blob/main/f15.gif)
 <h1 align="center">Hi 👋, I'm Kunsh</h1>
 <h3 align="center">Developer learning, Cyber Security and AI.</h3>
 
